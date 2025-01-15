@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "ObjectModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ObjectModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjectModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectModel/1.0.0": {
+      "type": "project",
+      "path": "../ObjectModel/ObjectModel.csproj",
+      "msbuildProject": "../ObjectModel/ObjectModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "ObjectModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\phath\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\DevProjects\\03_SourceCode\\#NetProjects\\WindowForm\\Cours2\\SolutionNet\\ProductManage\\ProductManage.csproj",
+      "projectName": "ProductManage",
+      "projectPath": "C:\\DevProjects\\03_SourceCode\\#NetProjects\\WindowForm\\Cours2\\SolutionNet\\ProductManage\\ProductManage.csproj",
+      "packagesPath": "C:\\Users\\phath\\.nuget\\packages\\",
+      "outputPath": "C:\\DevProjects\\03_SourceCode\\#NetProjects\\WindowForm\\Cours2\\SolutionNet\\ProductManage\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\phath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\DevProjects\\03_SourceCode\\#NetProjects\\WindowForm\\Cours2\\SolutionNet\\ObjectModel\\ObjectModel.csproj": {
+              "projectPath": "C:\\DevProjects\\03_SourceCode\\#NetProjects\\WindowForm\\Cours2\\SolutionNet\\ObjectModel\\ObjectModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

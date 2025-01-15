@@ -1,0 +1,4 @@
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ObjectModel\obj\Debug\net8.0\ObjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ObjectModel\obj\Debug\net8.0\ObjectModel.AssemblyInfoInputs.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ObjectModel\obj\Debug\net8.0\ObjectModel.AssemblyInfo.cs
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ObjectModel\obj\Debug\net8.0\ObjectModel.csproj.CoreCompileInputs.cache

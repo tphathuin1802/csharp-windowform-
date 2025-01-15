@@ -1,0 +1,17 @@
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\bin\Debug\net8.0-windows\ProductManage.exe
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\bin\Debug\net8.0-windows\ProductManage.deps.json
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\bin\Debug\net8.0-windows\ProductManage.runtimeconfig.json
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\bin\Debug\net8.0-windows\ProductManage.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\bin\Debug\net8.0-windows\ProductManage.pdb
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.Form1.resources
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.Properties.Resources.resources
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.csproj.GenerateResource.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.AssemblyInfoInputs.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.AssemblyInfo.cs
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.csproj.CoreCompileInputs.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\refint\ProductManage.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.pdb
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ProductManage.genruntimeconfig.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\ProductManage\obj\Debug\net8.0-windows\ref\ProductManage.dll

@@ -1,0 +1,17 @@
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\bin\Debug\net8.0-windows\EquationLevel1.exe
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\bin\Debug\net8.0-windows\EquationLevel1.deps.json
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\bin\Debug\net8.0-windows\EquationLevel1.runtimeconfig.json
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\bin\Debug\net8.0-windows\EquationLevel1.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\bin\Debug\net8.0-windows\EquationLevel1.pdb
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.Form1.resources
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.csproj.GenerateResource.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.AssemblyInfoInputs.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.AssemblyInfo.cs
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.csproj.CoreCompileInputs.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\refint\EquationLevel1.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.pdb
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.genruntimeconfig.cache
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\ref\EquationLevel1.dll
+C:\DevProjects\03_SourceCode\#NetProjects\WindowForm\Cours2\SolutionNet\EquationLevel1\obj\Debug\net8.0-windows\EquationLevel1.Properties.Resources.resources
